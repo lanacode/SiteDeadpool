@@ -23,4 +23,4 @@ Este repositório contém o código-fonte para uma Site Deadpool moderna e respo
 - *Instagram*: https://www.instagram.com/artedasredes/
 - *Contato*: artedasredes@gmail.com
 
-<img src="/assets/Site Aula - Deadpool">
+<img src="/assets/SIte Aula - Deadpool.png">
