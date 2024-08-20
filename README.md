@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório da *Site Deadpool*! Este projeto foi criado durante uma aula para simular o lançamento de um evento.
 
+<img src="/assets/SIte Aula - Deadpool.png">
+
 ## 📋 Descrição
 
 Este repositório contém o código-fonte para uma Site Deadpool moderna e responsiva, ideal para promover lançamentos de eventos. A página inclui:
@@ -23,4 +25,3 @@ Este repositório contém o código-fonte para uma Site Deadpool moderna e respo
 - *Instagram*: https://www.instagram.com/artedasredes/
 - *Contato*: artedasredes@gmail.com
 
-<img src="/assets/SIte Aula - Deadpool.png">
